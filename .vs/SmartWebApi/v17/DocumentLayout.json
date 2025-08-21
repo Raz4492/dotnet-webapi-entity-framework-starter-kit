@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -112,14 +108,14 @@
               "RelativeDocumentMoniker": "SmartWebApi\\.gitignore",
               "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\.gitignore",
               "RelativeToolTip": "SmartWebApi\\.gitignore",
-              "ViewState": "AgIAAC8CAAAAAAAAAAAmwDUCAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswD4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-21T21:08:25.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Data\\Repositories\\Repository.cs",
@@ -127,12 +123,11 @@
               "RelativeToolTip": "SmartWebApi\\Data\\Repositories\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T20:49:58.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T20:49:58.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Controllers\\AuthController.cs",
@@ -144,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Services\\Interfaces\\IAuthService.cs",
@@ -156,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Services\\AuthService.cs",
@@ -168,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "SmartWebApi\\appsettings.json",
@@ -176,25 +171,11 @@
               "RelativeToolTip": "SmartWebApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-21T19:32:34.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T19:32:34.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\README.md",
-              "RelativeDocumentMoniker": "SmartWebApi\\README.md",
-              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\README.md",
-              "RelativeToolTip": "SmartWebApi\\README.md",
-              "ViewState": "AgIAAMAAAAAAAAAAAADwv9UAAAC/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-21T20:14:34.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Data\\Repositories\\UserRepository.cs",
@@ -206,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Data\\ApplicationDbContext.cs",
@@ -218,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "FluentValidationExtensions.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Extensions\\FluentValidationExtensions.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Extensions\\FluentValidationExtensions.cs",
@@ -230,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
@@ -242,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Data\\UnitOfWork\\UnitOfWork.cs",
@@ -254,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Program.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Program.cs",
@@ -266,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "RefreshTokenRequestValidator.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Validators\\RefreshTokenRequestValidator.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Validators\\RefreshTokenRequestValidator.cs",
@@ -278,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Profiles\\MappingProfile.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Profiles\\MappingProfile.cs",
@@ -290,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Models\\Identity\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Models\\Identity\\ApplicationUser.cs",
@@ -302,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Models\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Models\\DTOs\\UserDto.cs",
@@ -314,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "RegisterRequestValidator.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Validators\\RegisterRequestValidator.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Validators\\RegisterRequestValidator.cs",
@@ -326,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "TokenCleanupService.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\BackgroundServices\\TokenCleanupService.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Services\\BackgroundServices\\TokenCleanupService.cs",
@@ -338,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Services\\UserService.cs",
@@ -350,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SmartWebApi\\appsettings.Development.json",
@@ -362,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "RefreshTokenRepository.cs",
               "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\RefreshTokenRepository.cs",
               "RelativeDocumentMoniker": "SmartWebApi\\Data\\Repositories\\RefreshTokenRepository.cs",
