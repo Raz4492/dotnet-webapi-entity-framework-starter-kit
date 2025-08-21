@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\dotnet_api_EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\extensions\\fluentvalidationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\extensions\\fluentvalidationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\validators\\refreshtokenrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\validators\\refreshtokenrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\validators\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\validators\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\services\\backgroundservices\\tokencleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\services\\backgroundservices\\tokencleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|d:\\work\\dotnet_api_ef\\smartwebapi\\data\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|SmartWebApi\\SmartWebApi.csproj|solutionrelative:smartwebapi\\data\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\.gitignore",
+              "RelativeDocumentMoniker": "SmartWebApi\\.gitignore",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\.gitignore",
+              "RelativeToolTip": "SmartWebApi\\.gitignore",
+              "ViewState": "AgIAAC8CAAAAAAAAAAAmwDUCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-21T21:08:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "SmartWebApi\\Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:49:58.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:33:49.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "SmartWebApi\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:31:14.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "SmartWebApi\\Services\\AuthService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:36:01.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartWebApi\\appsettings.json",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\appsettings.json",
+              "RelativeToolTip": "SmartWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T19:32:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\README.md",
+              "RelativeDocumentMoniker": "SmartWebApi\\README.md",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\README.md",
+              "RelativeToolTip": "SmartWebApi\\README.md",
+              "ViewState": "AgIAAMAAAAAAAAAAAADwv9UAAAC/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-21T20:14:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SmartWebApi\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:49:49.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SmartWebApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:47:40.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FluentValidationExtensions.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Extensions\\FluentValidationExtensions.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Extensions\\FluentValidationExtensions.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Extensions\\FluentValidationExtensions.cs",
+              "RelativeToolTip": "SmartWebApi\\Extensions\\FluentValidationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:31:37.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "SmartWebApi\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:49:42.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "SmartWebApi\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:49:44.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Program.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Program.cs",
+              "RelativeToolTip": "SmartWebApi\\Program.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAhwGsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:32:28.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RefreshTokenRequestValidator.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Validators\\RefreshTokenRequestValidator.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Validators\\RefreshTokenRequestValidator.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Validators\\RefreshTokenRequestValidator.cs",
+              "RelativeToolTip": "SmartWebApi\\Validators\\RefreshTokenRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:32:16.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Profiles\\MappingProfile.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "SmartWebApi\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:43:20.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Models\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Models\\Identity\\ApplicationUser.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Models\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "SmartWebApi\\Models\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:39:02.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Models\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Models\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Models\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "SmartWebApi\\Models\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:38:57.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Validators\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Validators\\RegisterRequestValidator.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Validators\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "SmartWebApi\\Validators\\RegisterRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:32:21.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenCleanupService.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\BackgroundServices\\TokenCleanupService.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Services\\BackgroundServices\\TokenCleanupService.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\BackgroundServices\\TokenCleanupService.cs",
+              "RelativeToolTip": "SmartWebApi\\Services\\BackgroundServices\\TokenCleanupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:29:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Services\\UserService.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Services\\UserService.cs",
+              "RelativeToolTip": "SmartWebApi\\Services\\UserService.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAewJIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:56:31.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SmartWebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "SmartWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T19:32:37.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "SmartWebApi\\Data\\Repositories\\RefreshTokenRepository.cs",
+              "ToolTip": "D:\\Work\\dotnet_api_EF\\SmartWebApi\\Data\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "SmartWebApi\\Data\\Repositories\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:49:47.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
